@@ -1,0 +1,21 @@
+{
+  "name": "konva-react-contextmenu",
+  "description": "An attempt to create a context menu to be used on Konva objects using react.",
+  "version": "0.0.9",
+  "keywords": ["react", "konva", "contextmenu"],
+  "dependencies": {
+    "konva": "2.5.1",
+    "react": "16.6.1",
+    "react-dom": "16.6.1",
+    "react-konva": "16.6.1-1"
+  },
+  "devDependencies": {
+    "react-scripts": "2.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
